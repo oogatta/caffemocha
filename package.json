@@ -1,8 +1,9 @@
 { "name" : "caffemocha"
-, "version" : "0.1.1"
+, "version" : "0.1.2"
 , "description" : "a piccolo command to run mocha with the coffescript compiler."
 , "repository" : { "type" : "git", "url" : "https://github.com/oogatta/caffemocha" }
 , "author": { "name": "oogatta", "email": "oogatta@gmail.com" }
 , "bin" : "bin/caffemocha.js"
 , "license" : "MIT License"
+, "keywords" : ["mocha", "coffeescript"]
 }
